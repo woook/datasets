@@ -1,0 +1,24 @@
+browser position chr16:68671195-68969444
+track name=GuysInfo type=bedDetail db=hg19 visibility=3 itemRgb=On 
+chr1	145507557	145513535	TAR-CandiateGene	0	.	145507557	145513535	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Candidate gene for TAR syndrome - RBM8A. See <a href="http://omim.org/entry/605313">OMIM 605313</a> (chr1:145,507,557-145,513,535)<<br /><br /><br />
+chr2	30814684	30832151	CiCNV	0	.	30814684	30832151	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr2:30,814,684-30,832,151)<br /><br /><br />
+chr2	50145643	51259674	ReportAll	0	.	50145643	51259674	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always reports imbalances involving NRXN1 (chr2:50,145,643-51,259,674), classify as Pathogenic, likely<br /><br /><br />
+chr2	242930599	242948040	CiCNVx0	0	.	242930599	242948040	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Nullisomy CiCNV (chr2:242,930,599-242,948,040). Don't report nullisomy (or deletions) as this is a CiCNV. (Activated  15/08/2013)<br /><br /><br />
+chr5	32110734	32149723	CiCNV	0	.	32110734	32149723	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr5:32,110,734-32,149,723)<br /><br /><br />
+chr6	1612177	1612769	ComplexRegion	0	.	1612177	1612769	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr6:1,612,177-1,612,769)<br /><br /><br />
+chr6	168086690	168519781	trp	0	.	168086690	168519781	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Followup the trp rather than the del  (chr6:168.1-168.5Mb)<br /><br /><br />
+chr7	158820866	158937649	VIPR2-OftenDupTrp	0	.	158820866	158937649	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - VIPR2 is linked to disease, see <a href="http://omim.org/entry/601970">OMIM 601970</a>. Also, often get dup-trp of this region (presumably contiguous) (chr7:158,820,866-158,937,649)<br /><br /><br />
+chr9	38500000	70900000	ComplexRegion	0	.	38500000	70900000	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup but look out for markers (chr9:38.5 70.9Mb)<br /><br /><br />
+chr14	105936978	105996549	ComplexRegion	0	.	105936978	105996549	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr14:105,936,978-105,996,549)<br /><br /><br />
+chr15	22765627	23085036	ReportDels	0	.	22765627	23085036	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always reports deletions as this is 15q11.2 deletion susceptibility locus (chr15:22,765,627-23,085,036), report as a susceptibility locus<br /><br /><br />
+chr15	32322686	32462384	ReportAll	0	.	32322686	32462384	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Deletions of this gene are associated with <a href=http://europe.omim.org/entry/612001>15q13.3 deletion syndrome</a>. Duplications should also be reported as a susceptibility locus as they have been associated with behavioural problems. See <a href=http://ajp.psychiatryonline.org/article.aspx?articleid=483665>Genome-wide analysis of copy number variants in attention deficit hyperactivity disorder: the role of rare variants and duplications at 15q13.3. Williams NM et al. Am J Psychiatry. 2012 Feb;169(2):195-204.</a> (Activated  07/11/2013)<br /><br /><br />
+chr16	332320	400710	ComplexRegion	0	.	332320	400710	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:332,320-400,710)<br /><br /><br />
+chr16	29815121	29826893	ComplexRegion	0	.	29815121	29826893	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:29,815,121-29,826,893)<br /><br /><br />
+chr16	70860486	71196477	Paralogue	0	.	70860486	71196477	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Paralogue present in 1q21 syndrome region - generally only report 1q21 finding (chr16:70,860,486-71,196,477)<br /><br /><br />
+chr17	3519958	3543523	CiCNV	0	.	3519958	3543523	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr17:3,519,958-3,543,523)<br /><br /><br />
+chr17	33687356	33738467	CiCNV	0	.	33687356	33738467	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr17:33,687,356-33,738,467)<br /><br /><br />
+chrX	1	2699520	PAR1	0	.	1	2699520	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR1<br /><br /><br />
+chrX	919416	1259140	CiCNVx3	0	.	919416	1259140	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Duplication CiCNV (chrX:919,416-1,259,140). Don't report duplications as this is a CiCNV. (Activated  27/08/2013)<br /><br /><br />
+chrX	154931044	155260560	PAR2	0	.	154931044	155260560	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR2<br /><br /><br />
+chrY	1	2649520	PAR1	0	.	1	2649520	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR1<br /><br /><br />
+chrY	59034050	59363566	PAR2	0	.	59034050	59363566	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR2<br /><br /><br />

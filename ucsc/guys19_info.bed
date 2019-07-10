@@ -1,0 +1,106 @@
+browser position chr16:68671195-68969444
+track name=GuysInfo type=bedDetail db=hg19 visibility=3 itemRgb=On 
+chr18	31158541	31327399	ReportDels	0	.	31158541	31327399	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Report Dels - this is a known autism gene and the DGV entries come from a single study and are likely artefacts. <br /><br /><br />
+chr10	102969334	103416646	Report_Dups	0	.	102969334	103416646	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Report Dups - these are associated with SHFM3 <a href="http://omim.org/entry/246560">OMIM: 246560</a> <br /><br /><br />
+chr1	142617839	142642842	ControlProbes	0	.	142617839	142642842	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Control probes for delination of CNV breakpoints only, not for detection CNVs <br /><br /><br />
+chr1	145507557	145513535	TAR-CandiateGene	0	.	145507557	145513535	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Candidate gene for TAR syndrome - RBM8A. See <a href="http://omim.org/entry/605313">OMIM 605313</a> (chr1:145,507,557-145,513,535)<<br /><br /><br />
+chr2	30814684	30832151	CiCNV	0	.	30814684	30832151	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr2:30,814,684-30,832,151)<br /><br /><br />
+chr2	50145643	51259674	ReportAll	0	.	50145643	51259674	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always reports imbalances involving NRXN1 (chr2:50,145,643-51,259,674), classify as Pathogenic, likely<br /><br /><br />
+chr2	242930599	242948040	CiCNVx0	0	.	242930599	242948040	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Nullisomy CiCNV (chr2:242,930,599-242,948,040). Don't report nullisomy (or deletions) as this is a CiCNV. (Activated  15/08/2013)<br /><br /><br />
+chr5	11881	26337	ControlProbes	0	.	11881	26337	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Control probes for delination of CNV breakpoints only, not for detection CNVs <br /><br /><br />
+chr5	32110734	32149723	CiCNV	0	.	32110734	32149723	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr5:32,110,734-32,149,723)<br /><br /><br />
+chr5	69705561	70309855	ReportNullisomy	0	.	69705561	70309855	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Report nullisomy when both probes flanking SMN1 gene region are affected <br /><br /><br />
+chr6	1612177	1612769	ComplexRegion	0	.	1612177	1612769	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr6:1,612,177-1,612,769)<br /><br /><br />
+chr7	41094	54245	ControlProbes	0	.	41094	54245	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Control probes for delination of CNV breakpoints only, not for detection CNVs <br /><br /><br />
+chr7	158820866	158937649	VIPR2-Report All	0	.	158820866	158937649	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - VIPR2 is linked to disease, see <a href="http://omim.org/entry/601970">OMIM 601970</a>. Also, often get dup-trp of this region (presumably contiguous) (chr7:158,820,866-158,937,649)<br /><br /><br />
+chr9	38500000	70900000	ComplexRegion	0	.	38500000	70900000	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup but look out for markers (chr9:38.5 70.9Mb)<br /><br /><br />
+chr11	216245	217683	ControlProbes	0	.	216245	217683	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Control probes for delination of CNV breakpoints only, not for detection CNVs <br /><br /><br />
+chr14	105936978	105996549	ComplexRegion	0	.	105936978	105996549	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr14:105,936,978-105,996,549)<br /><br /><br />
+chr15	22765627	23085036	ReportDels	0	.	22765627	23085036	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always reports deletions as this is 15q11.2 deletion susceptibility locus (chr15:22,765,627-23,085,036), report as a susceptibility locus<br /><br /><br />
+chr15	32322686	32462384	ReportDels	0	.	32322686	32462384	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - We report only deletions of this gene, see <a href=http://89.188.29.124/Array/Array_Workflows/Interpretation_pointers_and_reporting_guidelines/15q13.3_CHRNA7>Barista</a>.<br /><br /><br />
+chr16	332320	400710	ComplexRegion	0	.	332320	400710	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:332,320-400,710)<br /><br /><br />
+chr16	21806298	22407931	ReportAll	0	.	21806298	22407931	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - We report deletions and duplications of this region <br /><br /><br />
+chr16	29815121	29826893	ComplexRegion	0	.	29815121	29826893	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:29,815,121-29,826,893)<br /><br /><br />
+chr16	70860486	71196477	Paralogue	0	.	70860486	71196477	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Paralogue present in 1q21 syndrome region - generally only report 1q21 finding (chr16:70,860,486-71,196,477)<br /><br /><br />
+chr17	3519958	3543523	CiCNV	0	.	3519958	3543523	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr17:3,519,958-3,543,523)<br /><br /><br />
+chr17	33687356	33738467	CiCNV	0	.	33687356	33738467	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr17:33,687,356-33,738,467)<br /><br /><br />
+chr18	112528	132305	ControlProbes	0	.	112528	132305	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Control probes for delination of CNV breakpoints only, not for detection CNVs <br /><br /><br />
+chrX	1	2699520	PAR1	0	.	1	2699520	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR1<br /><br /><br />
+chrX	919416	1259140	CiCNVx3	0	.	919416	1259140	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Duplication CiCNV (chrX:919,416-1,259,140). Don't report duplications as this is a CiCNV. (Activated  27/08/2013)<br /><br /><br />
+chrX	153287264	153363188	ReportAll	0	.	153287264	153363188	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always report imbalances in MECP2 <br /><br /><br />
+chrX	154931044	155260560	Dups Not Reported	0	.	154931044	155260560	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Duplications not reported <br /><br /><br />
+chrX	154931044	155260560	PAR2	0	.	154931044	155260560	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR2<br /><br /><br />
+chrY	1	2649520	PAR1	0	.	1	2649520	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR1<br /><br /><br />
+chrY	59034050	59363566	Dups Not Reported	0	.	59034050	59363566	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Duplications not reported <br /><br /><br />
+chrY	59034050	59363566	PAR2	0	.	59034050	59363566	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - PAR2<br /><br /><br />
+chr1	121500001	125000000	acen	0	.	121500001	125000000	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr1	125000001	128900000	acen	0	.	125000001	128900000	255,20,148	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr1	128900001	142600000	gvar	0	.	128900001	142600000	255,20,149	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr2	90500001	93300000	acen	0	.	90500001	93300000	255,20,150	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr2	93300001	96800000	acen	0	.	93300001	96800000	255,20,151	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr3	87900001	91000000	acen	0	.	87900001	91000000	255,20,152	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr3	91000001	93900000	acen	0	.	91000001	93900000	255,20,153	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr3	93900001	98300000	gvar	0	.	93900001	98300000	255,20,154	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr4	48200001	50400000	acen	0	.	48200001	50400000	255,20,155	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr4	50400001	52700000	acen	0	.	50400001	52700000	255,20,156	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr5	46100001	48400000	acen	0	.	46100001	48400000	255,20,157	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr5	48400001	50700000	acen	0	.	48400001	50700000	255,20,158	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr6	58700001	61000000	acen	0	.	58700001	61000000	255,20,159	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr6	61000001	63300000	acen	0	.	61000001	63300000	255,20,160	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr7	58000001	59900000	acen	0	.	58000001	59900000	255,20,161	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr7	59900001	61700000	acen	0	.	59900001	61700000	255,20,162	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr8	43100001	45600000	acen	0	.	43100001	45600000	255,20,163	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr8	45600001	48100000	acen	0	.	45600001	48100000	255,20,164	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr9	47300001	49000000	acen	0	.	47300001	49000000	255,20,165	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr9	49000001	50700000	acen	0	.	49000001	50700000	255,20,166	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr9	50700001	65900000	gvar	0	.	50700001	65900000	255,20,167	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr10	38000001	40200000	acen	0	.	38000001	40200000	255,20,168	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr10	40200001	42300000	acen	0	.	40200001	42300000	255,20,169	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr11	51600001	53700000	acen	0	.	51600001	53700000	255,20,170	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr11	53700001	55700000	acen	0	.	53700001	55700000	255,20,171	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr12	33300001	35800000	acen	0	.	33300001	35800000	255,20,172	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr12	35800001	38200000	acen	0	.	35800001	38200000	255,20,173	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr13	1	4500000	gvar	0	.	1	4500000	255,20,174	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr13	4500001	10000000	stalk	0	.	4500001	10000000	255,20,175	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr13	10000001	16300000	gvar	0	.	10000001	16300000	255,20,176	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr13	16300001	17900000	acen	0	.	16300001	17900000	255,20,177	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr13	17900001	19500000	acen	0	.	17900001	19500000	255,20,178	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr14	1	3700000	gvar	0	.	1	3700000	255,20,179	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr14	3700001	8100000	stalk	0	.	3700001	8100000	255,20,180	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr14	8100001	16100000	gvar	0	.	8100001	16100000	255,20,181	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr14	16100001	17600000	acen	0	.	16100001	17600000	255,20,182	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr14	17600001	19100000	acen	0	.	17600001	19100000	255,20,183	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr15	1	3900000	gvar	0	.	1	3900000	255,20,184	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr15	3900001	8700000	stalk	0	.	3900001	8700000	255,20,185	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr15	8700001	15800000	gvar	0	.	8700001	15800000	255,20,186	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr15	15800001	19000000	acen	0	.	15800001	19000000	255,20,187	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr15	19000001	20700000	acen	0	.	19000001	20700000	255,20,188	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr16	34600001	36600000	acen	0	.	34600001	36600000	255,20,189	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr16	36600001	38600000	acen	0	.	36600001	38600000	255,20,190	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr16	38600001	47000000	gvar	0	.	38600001	47000000	255,20,191	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr17	22200001	24000000	acen	0	.	22200001	24000000	255,20,192	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr17	24000001	25800000	acen	0	.	24000001	25800000	255,20,193	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr17	43513363	43513436	ComplexRegion	0	.	43513363	43513436	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - ComplexRegion 17q21.31(43513363_43513436)<br /><br /><br />
+chr18	15400001	17200000	acen	0	.	15400001	17200000	255,20,194	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr18	17200001	19000000	acen	0	.	17200001	19000000	255,20,195	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr19	20000001	24400000	gvar	0	.	20000001	24400000	255,20,196	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr19	24400001	26500000	acen	0	.	24400001	26500000	255,20,197	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr19	26500001	28600000	acen	0	.	26500001	28600000	255,20,198	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr19	28600001	32400000	gvar	0	.	28600001	32400000	255,20,199	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr20	25600001	27500000	acen	0	.	25600001	27500000	255,20,200	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr20	27500001	29400000	acen	0	.	27500001	29400000	255,20,201	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr21	1	2800000	gvar	0	.	1	2800000	255,20,202	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr21	2800001	6800000	stalk	0	.	2800001	6800000	255,20,203	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr21	6800001	10900000	gvar	0	.	6800001	10900000	255,20,204	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr21	10900001	13200000	acen	0	.	10900001	13200000	255,20,205	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr21	13200001	14300000	acen	0	.	13200001	14300000	255,20,206	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	1	3800000	gvar	0	.	1	3800000	255,20,207	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	3800001	8300000	stalk	0	.	3800001	8300000	255,20,208	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	8300001	12200000	gvar	0	.	8300001	12200000	255,20,209	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	12200001	14700000	acen	0	.	12200001	14700000	255,20,210	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	14700001	17900000	acen	0	.	14700001	17900000	255,20,211	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chrX	58100001	60600000	acen	0	.	58100001	60600000	255,20,212	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chrX	60600001	63000000	acen	0	.	60600001	63000000	255,20,213	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chrY	11600001	12500000	acen	0	.	11600001	12500000	255,20,214	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chrY	12500001	13400000	acen	0	.	12500001	13400000	255,20,215	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chrY	28800001	59373566	gvar	0	.	28800001	59373566	255,20,216	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />

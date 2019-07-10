@@ -1,0 +1,43 @@
+track name=GuysCNVcuration type=bedDetail db=hg19 visibility=3 itemRgb=On 
+chr1	145632333	145747269	Class_3_not_reported	1000	.	145632333	145747269	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 3, not reported <br /><br /><br />
+chr1	145632333	145747269	Class_2	1000	.	145632333	145747269	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr1	196788211	196883398	Class_2	1000	.	196788211	196883398	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr1	247879925	248278070	Class_3_not_reported	1000	.	247879925	248278070	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 3, not reported <br /><br /><br />
+chr1	247879925	248278070	Class_2	1000	.	247879925	248278070	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr2	32695218	33249136	Class_2	1000	.	32695218	33249136	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr2	110883062	110980905	Class_2	1000	.	110883062	110980905	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr2	110883062	110980905	Class_2	1000	.	110883062	110980905	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr6	168343840	168776932	Class_3_not_reported	1000	.	168343840	168776932	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 3, not reported <br /><br /><br />
+chr7	64691935	64866073	Class_2	1000	.	64691935	64866073	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr7	64691935	64866073	Class_2	1000	.	64691935	64866073	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr7	143425417	143426039	Class_2	1000	.	143425417	143426039	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr9	28670177	28745046	Class_2	1000	.	28670177	28745046	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr10	46951236	47604877	Class_2	1000	.	46951236	47604877	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr11	50367330	50381217	Class_2	1000	.	50367330	50381217	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr11	50367330	50381217	Class_2	1000	.	50367330	50381217	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr11	55703735	55816312	Class_2	1000	.	55703735	55816312	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr12	8003413	8088660	Class_2	1000	.	8003413	8088660	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr15	20849109	23085096	Class_2	1000	.	20849109	23085096	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr15	43916972	43938847	Class_2	1000	.	43916972	43938847	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr16	15048750	15111295	Class_2	1000	.	15048750	15111295	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions - Class 2 <br /><br /><br />
+chr19	43348309	43800111	Class_3_not_reported	1000	.	43348309	43800111	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 3, not reported <br /><br /><br />
+chr19	52272355	52616696	Class_3_not_reported	1000	.	52272355	52616696	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 3, not reported <br /><br /><br />
+chrX	2700315	2778548	Females_Class_2	1000	.	2700315	2778548	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions in females - Class 2 <br /><br /><br />
+chrX	2700315	2778548	Males_Class_3_not_reported	1000	.	2700315	2778548	255,0,0	2	<br /><strong>GuysInfoTrack</strong> - Deletions in males i.e. nullisomy - Class 3, not reported <br /><br /><br />
+chrX	2700315	2778548	Class_2	1000	.	2700315	2778548	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chr1	104103781	104301157	EbCNV_100201_304	1000	.	104103781	104301157	153,0,255	3	<br />Established benign CNV
+chr1	196746064	196797163	EbCNV_100201_687	1000	.	196746064	196797163	153,0,255	3	<br />Established benign CNV
+chr6	259528	350265	EbCNV_100201_528	1000	.	259528	350265	153,0,255	3	<br />Established benign CNV
+chr8	7268819	7752586	EbCNV_100201_229	1000	.	7268819	7752586	153,0,255	3	<br />Established benign CNV
+chr14	19794561	20295270	EbCNV_100201_561	1000	.	19794561	20295270	153,0,255	3	<br />Established benign CNV
+chr15	20849110	22509254	EbCNV_100201_124	1000	.	20849110	22509254	153,0,255	3	<br />Established benign CNV
+chr16	32300741	33604468	EbCNV_100201_242	1000	.	32300741	33604468	153,0,255	3	<br />Established benign CNV
+chr17	44210763	44351152	EbCNV_100201_540	1000	.	44210763	44351152	153,0,255	3	<br />Established benign CNV
+chr22	39359112	39385485	EbCNV_100201_058	1000	.	39359112	39385485	153,0,255	3	<br />Established benign CNV
+chr3	162593525	162769048	EbCNV_baylor_001	1000	.	162593525	162769048	153,0,255	3	<br />Established benign CNV
+chr5	180414939	180430471	EbCNV_baylor_002	1000	.	180414939	180430471	153,0,255	3	<br />Established benign CNV
+chr6	32518697	32575340	EbCNV_baylor_003	1000	.	32518697	32575340	153,0,255	3	<br />Established benign CNV
+chr8	39233212	39386132	EbCNV_baylor_004	1000	.	39233212	39386132	153,0,255	3	<br />Established benign CNV
+chr14	107152092	107182658	EbCNV_baylor_005	1000	.	107152092	107182658	153,0,255	3	<br />Established benign CNV
+chr17	16718983	16723022	EbCNV_baylor_006	1000	.	16718983	16723022	153,0,255	3	<br />Established benign CNV
+chrX	77121844	77123798	EbCNV_baylor_007	1000	.	77121844	77123798	153,0,255	3	<br />Established benign CNV
