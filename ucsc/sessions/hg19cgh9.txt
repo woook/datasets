@@ -12,7 +12,7 @@ allHg19RS_BW.transformFunc NONE
 allHg19RS_BW.windowingFunction mean+whiskers
 allHg19RS_BW.yLineMark 0
 allHg19RS_BW.yLineOnOff OFF
-c chr1
+c chr15
 centerLabels 1
 chainNetDanRer7 hide
 chromName chr4
@@ -91,7 +91,7 @@ ct_HIprediction_3353_imgOrd 21
 ct_Syndromes_4652 full
 ct_Syndromes_4652_imgOrd 3
 ct_ebCNV_540_imgOrd 14
-ctfile_hg19 ../trash/ct/ct_genome_euro_172d6_c0ec40.bed
+ctfile_hg19 /userdata/sessions/euro/fc/devdisorders/050c27e4/ct/ct_genome_euro_21dd9_1a3bf0.bed
 cytoBand pack
 cytoBandIdeo dense
 cytoBand_imgOrd 1
@@ -117,16 +117,16 @@ gnomadGenomesAvgCoverage hide
 gtexGene hide
 guidelines 1
 hg19Patch13 hide
-hgFind.matches uc021sic.2
-hgPS_DataTableState %7B%22time%22%3A1518447197894%2C%22start%22%3A10%2C%22length%22%3A10%2C%22order%22%3A%5B%5B3%2C%22desc%22%5D%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
-hgS_DataTableState %7B%22time%22%3A1561071750306%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B1%2C%22asc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
+hgFind.matches 
+hgPS_DataTableState %7B%22time%22%3A1517219913584%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B%5B3%2C%22desc%22%5D%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
+hgS_DataTableState %7B%22time%22%3A1571923054214%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B1%2C%22asc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
 hgS_loadUrlName 
 hgS_newSessionName hg19
 hgS_newSessionShare 1
 hgS_otherUserName devdisorders
 hgS_otherUserSessionName hg19cgh9
 hgS_saveLocalFileCompress none
-hgS_saveLocalFileName hg19cgh9
+hgS_saveLocalFileName hg19cgh9.txt
 hgctNoRemove_navDest ../cgi-bin/hgTracks
 hgg_chrom chr18
 hgg_end 812327
@@ -148,9 +148,11 @@ hglft_minSizeQ 0
 hglft_multiple 0
 hglft_toDb hg19
 hglft_toOrg Human
-hgsid 232627879_s3v3SuscPJ4XvVbwe3BXQNMuXc8a
+hgsid 233922599_XzYiXJpbk8ZqZsZeJluAfH3OycJe
 hgt.labelWidth 14
 hgt.newJQuery 1
+hgt.positionInput enter position, gene symbol, HGVS or search terms
+hgt.suggestTrack knownGene
 hgt_dgv_filterPmId 19470904
 hgt_dgv_filterPmId 20811451
 hgt_dgv_filterPmId 18987734
@@ -227,9 +229,9 @@ iscaViewTotal.showCfg off
 jsh_pageVertPos 0
 knownGene.label.gene 1
 knownGene_imgOrd 30
-l 196731257
+l 32322685
 laminB1Super hide
-lastPosition chr1:145111838-145265134
+lastPosition chr12:65071919-68645525
 lastVirtModeExtraState 
 lastVirtModeType default
 leftLabels 1
@@ -243,8 +245,8 @@ ncbiRefSeqView pack
 newWinWidth 63718092
 nextExonArrows 0
 nextItemArrows 0
-o 145632333
-oldPosition chr1:145156258-145309554
+o 32322686
+oldPosition chr15:32322686-32462384
 omimGene full
 omimGene2 full
 omimGene2.label.omimId 1
@@ -255,14 +257,14 @@ omimLocation.label.class3 1
 omimLocation.label.class4 1
 org Human
 pix 1100
-position chr1:145156258-145309554
-position.hg19 lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A145156258%2D145309554
+position chr15:32322686-32462384
+position.hg19 lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A32322686%2D32462384
 pubs pack
 pubsBlat_sel 0
 pubsMarkerGene_imgOrd 6
 pubsMarkerGene_sel 1
 pubsMarkerSnp_sel 0
-r 196884554
+r 32462384
 refGene.label.gene 1
 refSeqComposite full
 refSeqComposite.label.gene 1
@@ -280,7 +282,7 @@ snp130 hide
 snp137Common hide
 snp151Common hide
 snpArray hide
-t 145747269
+t 32462384
 textSize 12
 topSubmit submit
 trackControlsOnMain 1
@@ -290,7 +292,9 @@ transMapAlnMRna pack
 transMapAlnRefSeq pack
 transMapAlnUcscGenes pack
 transMapEnsemblV4 hide
+transMapEnsemblV5 hide
 transMapRefSeqV4 hide
+transMapRefSeqV5 hide
 transMapRnaV4 hide
 ucscRefSeqView hide
 virtMode 0
