@@ -41,3 +41,5 @@ chr8	39233212	39386132	EbCNV_baylor_004	1000	.	39233212	39386132	153,0,255	3	<br
 chr14	107152092	107182658	EbCNV_baylor_005	1000	.	107152092	107182658	153,0,255	3	<br />Established benign CNV
 chr17	16718983	16723022	EbCNV_baylor_006	1000	.	16718983	16723022	153,0,255	3	<br />Established benign CNV
 chrX	77121844	77123798	EbCNV_baylor_007	1000	.	77121844	77123798	153,0,255	3	<br />Established benign CNV
+chr15	32021733	32514980	Class_2	1000	.	32021733	32514980	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
+chrX	38488617	38532128	Class_2	1000	.	38488617	38532128	0,0,255	2	<br /><strong>GuysInfoTrack</strong> - Duplications - Class 2 <br /><br /><br />
