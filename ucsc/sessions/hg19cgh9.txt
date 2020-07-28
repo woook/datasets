@@ -12,6 +12,8 @@ allHg19RS_BW.transformFunc NONE
 allHg19RS_BW.windowingFunction mean+whiskers
 allHg19RS_BW.yLineMark 0
 allHg19RS_BW.yLineOnOff OFF
+altSeqLiftOverPsl hide
+avada hide
 c chr15
 centerLabels 1
 chainNetDanRer7 hide
@@ -91,11 +93,12 @@ ct_HIprediction_3353_imgOrd 21
 ct_Syndromes_4652 full
 ct_Syndromes_4652_imgOrd 3
 ct_ebCNV_540_imgOrd 14
-ctfile_hg19 /userdata/sessions/euro/fc/devdisorders/050c27e4/ct/ct_genome_euro_21dd9_1a3bf0.bed
+ctfile_hg19 /userdata/sessions/euro/fc/devdisorders/f32ea897/ct/ct_genome_euro_18338_42670.bed
 cytoBand pack
 cytoBandIdeo dense
 cytoBand_imgOrd 1
 db hg19
+dbSnp153Composite hide
 decipher squish
 decipher_imgOrd 29
 dgv squish
@@ -108,25 +111,30 @@ enableHighlightingDialog 1
 encTfChipPk hide
 exonNumbers 1
 expOrder_iscaComposite iscaPathLossCum iscaPathGainCum iscaBenignGainCum iscaBenignLossCum 
+fixSeqLiftOverPsl hide
 geneReviews squish
 geneReviews_imgOrd 5
 genomicSuperDups dense
 genomicSuperDups_imgOrd 13
+gnomadCoverage hide
 gnomadExomesAvgCoverage hide
 gnomadGenomesAvgCoverage hide
+gnomadPLI hide
+gnomadStructuralVariants hide
+gnomadVariants hide
 gtexGene hide
 guidelines 1
 hg19Patch13 hide
 hgFind.matches 
 hgPS_DataTableState %7B%22time%22%3A1517219913584%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B%5B3%2C%22desc%22%5D%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
-hgS_DataTableState %7B%22time%22%3A1571923054214%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B1%2C%22asc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
+hgS_DataTableState %7B%22time%22%3A1595949745638%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B1%2C%22asc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
 hgS_loadUrlName 
 hgS_newSessionName hg19
 hgS_newSessionShare 1
 hgS_otherUserName devdisorders
 hgS_otherUserSessionName hg19cgh9
 hgS_saveLocalFileCompress none
-hgS_saveLocalFileName hg19cgh9.txt
+hgS_saveLocalFileName hg19cgh9.txt 
 hgctNoRemove_navDest ../cgi-bin/hgTracks
 hgg_chrom chr18
 hgg_end 812327
@@ -148,11 +156,9 @@ hglft_minSizeQ 0
 hglft_multiple 0
 hglft_toDb hg19
 hglft_toOrg Human
-hgsid 233922599_XzYiXJpbk8ZqZsZeJluAfH3OycJe
+hgsid 240855635_PhouoMHbeQywLsAUoLTVtQvyk1aA
 hgt.labelWidth 14
 hgt.newJQuery 1
-hgt.positionInput enter position, gene symbol, HGVS or search terms
-hgt.suggestTrack knownGene
 hgt_dgv_filterPmId 19470904
 hgt_dgv_filterPmId 20811451
 hgt_dgv_filterPmId 18987734
@@ -280,7 +286,6 @@ sestanBrainAtlas.combine sestanBrainAtlasGroupByTissueMedian
 simOrder_iscaComposite iscaBenignLossCum iscaBenignGainCum iscaPathGainCum iscaPathLossCum 
 snp130 hide
 snp137Common hide
-snp151Common hide
 snpArray hide
 t 32462384
 textSize 12
@@ -306,6 +311,8 @@ wgEncodeExonArraySuper hide
 wgEncodeGencode hide
 wgEncodeGencodeSuper hide
 wgEncodeGencodeV11 hide
+wgEncodeGencodeV19 pack
+wgEncodeGencodeV34lift37 hide
 wgEncodeGencodeV4 hide
 wgEncodeHistoneSuper hide
 wgEncodeProtGenoSuper hide
@@ -349,7 +356,6 @@ wgEncodeAwgDnaseMasterSites dense
 wgEncodeAwgDnaseUniform dense
 wgEncodeAwgTfbsUniform dense
 wgEncodeOpenChromSynth dense
-wgEncodeGencodeV19 pack
 wgEncodeBroadHmm dense
 wgEncodeBroadHistone dense
 wgEncodeCaltechRnaSeq dense
