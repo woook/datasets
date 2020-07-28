@@ -19,7 +19,7 @@ chr14	105936978	105996549	ComplexRegion	0	.	105936978	105996549	255,20,147	1	<br
 chr15	22765627	23085036	ReportDels	0	.	22765627	23085036	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Always reports deletions as this is 15q11.2 deletion susceptibility locus (chr15:22,765,627-23,085,036), report as a susceptibility locus<br /><br /><br />
 chr15	32322686	32462384	ReportDels	0	.	32322686	32462384	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - We report only deletions of this gene, see <a href=https://viapath.sharepoint.com/sites/DevelopmentalDisorders/Barista%20v20/Interpretation%20and%20reporting%20help.aspx>Sharepoint</a>.<br /><br /><br />
 chr16	332320	400710	ComplexRegion	0	.	332320	400710	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:332,320-400,710)<br /><br /><br />
-chr16	21806298	22407931	ReportAll	0	.	21806298	22407931	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - We report deletions and duplications of this region <br /><br /><br />
+chr16	21806298	22407931	ReportDels	0	.	21806298	22407931	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - We report deletions of this region <br /><br /><br />
 chr16	29815121	29826893	ComplexRegion	0	.	29815121	29826893	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Complex region - don't followup (chr16:29,815,121-29,826,893)<br /><br /><br />
 chr16	70860486	71196477	Paralogue	0	.	70860486	71196477	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - Paralogue present in 1q21 syndrome region - generally only report 1q21 finding (chr16:70,860,486-71,196,477)<br /><br /><br />
 chr17	3519958	3543523	CiCNV	0	.	3519958	3543523	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - CiCNV (chr17:3,519,958-3,543,523)<br /><br /><br />
@@ -104,3 +104,4 @@ chrX	60600001	63000000	acen	0	.	60600001	63000000	255,20,213	1	<br /><strong>Guy
 chrY	11600001	12500000	acen	0	.	11600001	12500000	255,20,214	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
 chrY	12500001	13400000	acen	0	.	12500001	13400000	255,20,215	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
 chrY	28800001	59373566	gvar	0	.	28800001	59373566	255,20,216	1	<br /><strong>GuysInfoTrack</strong> - Unreported region<br /><br /><br />
+chr22	51132803	51132803	GCartefact	0	.	51132803	51132803	255,20,147	1	<br /><strong>GuysInfoTrack</strong> - GC artefact. Treat dels in exons 10-13 with caution<br /><br /><br />
