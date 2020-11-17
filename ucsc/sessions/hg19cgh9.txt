@@ -63,7 +63,6 @@ cons46wayViewalign.align.tetNig2 0
 cons46wayViewalign.align.tupBel1 0
 cons46wayViewalign.align.turTru1 0
 cons46wayViewalign.align.vicPac1 0
-cpgIslandSuper hide
 crispr10KRanges hide
 crispr10KTargets hide
 crisprRanges hide
@@ -93,13 +92,16 @@ ct_HIprediction_3353_imgOrd 21
 ct_Syndromes_4652 full
 ct_Syndromes_4652_imgOrd 3
 ct_ebCNV_540_imgOrd 14
-ctfile_hg19 /userdata/sessions/euro/fc/devdisorders/f32ea897/ct/ct_genome_euro_18338_42670.bed
+ctfile_hg19 /userdata/sessions/euro/fc/devdisorders/f32ea897/ct/ct_genome_euro_13d3e_314c70.bed
 cytoBand pack
 cytoBandIdeo dense
 cytoBand_imgOrd 1
 db hg19
 dbSnp153Composite hide
+dbVar_common hide
+dbVar_conflict hide
 decipher squish
+decipher.doMergeItems 1
 decipher_imgOrd 29
 dgv squish
 dinkL 2.0
@@ -120,14 +122,15 @@ gnomadCoverage hide
 gnomadExomesAvgCoverage hide
 gnomadGenomesAvgCoverage hide
 gnomadPLI hide
+gnomadPext hide
 gnomadStructuralVariants hide
 gnomadVariants hide
-gtexGene hide
+gtexGeneV8 hide
 guidelines 1
 hg19Patch13 hide
 hgFind.matches 
 hgPS_DataTableState %7B%22time%22%3A1517219913584%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B%5B3%2C%22desc%22%5D%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Afalse%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
-hgS_DataTableState %7B%22time%22%3A1595949745638%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B1%2C%22asc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
+hgS_DataTableState %7B%22time%22%3A1605571871466%2C%22start%22%3A0%2C%22length%22%3A10%2C%22order%22%3A%5B2%2C%22desc%22%5D%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%2C%22columns%22%3A%5B%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%2C%7B%22visible%22%3Atrue%2C%22search%22%3A%7B%22search%22%3A%22%22%2C%22smart%22%3Atrue%2C%22regex%22%3Afalse%2C%22caseInsensitive%22%3Atrue%7D%7D%5D%7D
 hgS_loadUrlName 
 hgS_newSessionName hg19
 hgS_newSessionShare 1
@@ -156,7 +159,7 @@ hglft_minSizeQ 0
 hglft_multiple 0
 hglft_toDb hg19
 hglft_toOrg Human
-hgsid 240855635_PhouoMHbeQywLsAUoLTVtQvyk1aA
+hgsid 247006177_4mxGLxRuy6Aq83c3alDiT3UzreZ1
 hgt.labelWidth 14
 hgt.newJQuery 1
 hgt_dgv_filterPmId 19470904
@@ -236,12 +239,10 @@ jsh_pageVertPos 0
 knownGene.label.gene 1
 knownGene_imgOrd 30
 l 32322685
-laminB1Super hide
 lastPosition chr12:65071919-68645525
 lastVirtModeExtraState 
 lastVirtModeType default
 leftLabels 1
-lincRNAs hide
 mainForm add custom tracks
 mastermind hide
 multishad.hgt_dgv_filterPmId 0
@@ -304,19 +305,11 @@ transMapRnaV4 hide
 ucscRefSeqView hide
 virtMode 0
 virtModeType default
-wgEncodeChromSuper hide
-wgEncodeDNAseSuper hide
-wgEncodeDnaMethylSuper hide
-wgEncodeExonArraySuper hide
 wgEncodeGencode hide
-wgEncodeGencodeSuper hide
 wgEncodeGencodeV11 hide
 wgEncodeGencodeV19 pack
 wgEncodeGencodeV34lift37 hide
 wgEncodeGencodeV4 hide
-wgEncodeHistoneSuper hide
-wgEncodeProtGenoSuper hide
-wgEncodeRbpSuper hide
 wgEncodeReg hide
 wgEncodeRegDnaseClusteredV2 hide
 wgEncodeRegDnaseClusteredV2_sel 0
@@ -341,9 +334,7 @@ wgEncodeRegMarkH3k27acK562_sel 1
 wgEncodeRegMarkH3k27acNhek_sel 1
 wgEncodeRegMarkH3k27acNhlf_sel 1
 wgEncodeRegTxn full
-wgEncodeRnaSeqSuper hide
 wgEncodeSunyAlbanyTiling hide
-wgEncodeTfBindingSuper hide
 wgEncodeUw5C dense
 winEnd 191154276
 winStart 0
