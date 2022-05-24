@@ -1,0 +1,80 @@
+track name=Syndromes type=bedDetail db=hg38 visibility=3 itemRgb=On 
+chrX	499823	793142	LWD-SHOX del	0	.	499823	793142	255,255,0	2	<br /><a href=http://omim.org/entry/127300>Guy's syndrome track - click for more information</a>
+chrX	6537771	8165154	STS del	0	.	6537771	8165154	255,255,0	2	<br /><a href=http://omim.org/entry/308100>Guy's syndrome track - click for more information</a>
+chrX	48476161	52374518	Xp11.22p11.23 dup	0	.	48476161	52374518	255,255,0	2	<br /><a href=http://omim.org/entry/300801>Guy's syndrome track - click for more information</a>
+chrX	53374149	53656331	Xp11.22 dup	0	.	53374149	53656331	255,255,0	2	<br /><a href=http://omim.org/entry/300705>Guy's syndrome track - click for more information</a>
+chrX	101393273	101408012	Fabry Disease del/dup	0	.	101393273	101408012	255,255,0	2	<br /><a href=http://omim.org/entry/301500>Guy's syndrome track - click for more information</a>
+chrX	103776510	103792618	Pelizaeus-Merzbacher del/dup	0	.	103776510	103792618	255,255,0	2	<br /><a href=http://omim.org/entry/312080>Guy's syndrome track - click for more information</a>
+chrX	123859708	124422664	Xq25 dup	0	.	123859708	124422664	255,255,0	2	<br /><a href=http://omim.org/entry/300979>Guy's syndrome track - click for more information</a>
+chrX	136545478	137036110	Xq26.3 dup	0	.	136545478	137036110	255,255,0	2	<br /><a href=http://omim.org/entry/300942>Guy's syndrome track - click for more information</a>
+chrX	154021812	154097731	MECP2 dup	0	.	154021812	154097731	255,255,0	2	<br /><a href=http://omim.org/entry/312750>Guy's syndrome track - click for more information</a>
+chrX	154396222	154653579	Xq28 dup	0	.	154396222	154653579	255,255,0	2	<br /><a href=http://omim.org/entry/300815>Guy's syndrome track - click for more information</a>
+chrX	154890328	155335092	Xq28 del	0	.	154890328	155335092	255,255,0	2	<br /><a href=https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/clingen_region.cgi?id=ISCA-37494>Guy's syndrome track - click for more information</a>
+chrX	154890328	155335092	Xq28 dup	0	.	154890328	155335092	255,255,0	2	<br /><a href=https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/clingen_region.cgi?id=ISCA-37494>Guy's syndrome track - click for more information</a>
+chr22	1	18527801	Cat-Eye dup	0	.	1	18527801	255,255,0	2	<br /><a href=http://omim.org/entry/115470>Guy's syndrome track - click for more information</a>
+chr22	19022279	21098156	22q11 dup	0	.	19022279	21098156	255,255,0	2	<br /><a href=http://omim.org/entry/608363>Guy's syndrome track - click for more information</a>
+chr22	19022279	21098156	22q11 DiGeorge del	0	.	19022279	21098156	255,255,0	2	<br /><a href=http://omim.org/entry/188400>Guy's syndrome track - click for more information</a>
+chr22	19022279	21098156	22q11 Velocardiofacial del	0	.	19022279	21098156	255,255,0	2	<br /><a href=http://omim.org/entry/192430>Guy's syndrome track - click for more information</a>
+chr22	21562828	23380258	22q11distal del	0	.	21562828	23380258	255,255,0	2	<br /><a href=http://omim.org/entry/611867>Guy's syndrome track - click for more information</a>
+chr22	50607088	50749416	Phelan-Mcdermid del	0	.	50607088	50749416	255,255,0	2	<br /><a href=http://omim.org/entry/606232>Guy's syndrome track - click for more information</a>
+chr21	25880549	26171128	Early-onset-Alzheimer dup	0	.	25880549	26171128	255,255,0	2	<br /><a href=http://omim.org/entry/104760>Guy's syndrome track - click for more information</a>
+chr17	150208	2685615	Miller-Dieker del	0	.	150208	2685615	255,255,0	2	<br /><a href=http://omim.org/entry/247200>Guy's syndrome track - click for more information</a>
+chr17	14194598	15567589	Charcot-Marie-Tooth dup	0	.	14194598	15567589	255,255,0	2	<br /><a href=http://omim.org/entry/118220>Guy's syndrome track - click for more information</a>
+chr17	14194598	15567589	HNPP del	0	.	14194598	15567589	255,255,0	2	<br /><a href=http://omim.org/entry/162500>Guy's syndrome track - click for more information</a>
+chr17	16869758	20318836	Smith-Magenis del	0	.	16869758	20318836	255,255,0	2	<br /><a href=http://omim.org/entry/182290>Guy's syndrome track - click for more information</a>
+chr17	16869758	20318836	Potocki-Lupski dup	0	.	16869758	20318836	255,255,0	2	<br /><a href=http://omim.org/entry/610883>Guy's syndrome track - click for more information</a>
+chr17	30780079	31936302	NF1 del	0	.	30780079	31936302	255,255,0	2	<br /><a href=http://omim.org/entry/613675>Guy's syndrome track - click for more information</a>
+chr17	36459259	37856298	RCAD del/dup	0	.	36459259	37856298	255,255,0	2	<br /><a href=http://omim.org/entry/137920>Guy's syndrome track - click for more information</a>
+chr17	45627800	46217040	17q21.31 del	0	.	45627800	46217040	255,255,0	2	<br /><a href=http://omim.org/entry/610443>Guy's syndrome track - click for more information</a>
+chr16	10001	784372	ATR-16 del	0	.	10001	784372	255,255,0	2	<br /><a href=http://omim.org/entry/141750>Guy's syndrome track - click for more information</a>
+chr16	2047967	2089491	Tuberous sclerosis type 2 del	0	.	2047967	2089491	255,255,0	2	<br /><a href=http://omim.org/entry/613254>Guy's syndrome track - click for more information</a>
+chr16	3725054	3880120	Rubinstein-Taybi del	0	.	3725054	3880120	255,255,0	2	<br /><a href=http://omim.org/entry/610543>Guy's syndrome track - click for more information</a>
+chr16	14892827	16392827	16p13.11 del/dup	0	.	14892827	16392827	255,255,0	2	<br /><a href=https://decipher.sanger.ac.uk/syndrome/79#overview>Guy's syndrome track microdeletion - click for more information</a><br />	<a href=https://decipher.sanger.ac.uk/syndrome/80#overview>Guy's syndrome track microduplication - click for more information</a>
+chr16	21463739	29272756	16p11.2p12.2 dup	0	.	21463739	29272756	255,255,0	2	<br /><a href=https://decipher.sanger.ac.uk/syndrome/96#overview>Guy's syndrome track - click for more information</a>
+chr16	21500741	30188533	16p11.2p12.2 del	0	.	21500741	30188533	255,255,0	2	<br /><a href=http://omim.org/entry/613604>Guy's syndrome track - click for more information</a>
+chr16	21935203	22455963	16p12.1 del	0	.	21935203	22455963	255,255,0	2	<br /><a href=http://omim.org/entry/136570>Guy's syndrome track - click for more information</a>
+chr16	28811314	29035178	16p11.2 distal del	0	.	28811314	29035178	255,255,0	2	<br /><a href=http://omim.org/entry/613444>Guy's syndrome track - click for more information</a>
+chr16	29595531	30188534	16p11.2 prox del/dup	0	.	29595531	30188534	255,255,0	2	<br /><a href=http://omim.org/entry/611913>Guy's syndrome track - click for more information</a>
+chr15	22677345	28193120	Prader-Willi del	0	.	22677345	28193120	255,255,0	2	<br /><a href=http://omim.org/entry/176270>Guy's syndrome track - click for more information</a>
+chr15	22677345	28193120	Angelman del	0	.	22677345	28193120	255,255,0	2	<br /><a href=http://omim.org/entry/105830>Guy's syndrome track - click for more information</a>
+chr15	30618103	32153206	15q13.3 del	0	.	30618103	32153206	255,255,0	2	<br /><a href=http://omim.org/entry/612001>Guy's syndrome track - click for more information</a>
+chr15	48408313	48645721	Marfan syndrome del	0	.	48408313	48645721	255,255,0	2	<br /><a href=http://omim.org/entry/154700>Guy's syndrome track - click for more information</a>
+chr15	74120302	75680570	15q24 del/dup	0	.	74120302	75680570	255,255,0	2	<br /><a href=http://omim.org/entry/613406>Guy's syndrome track - click for more information</a>
+chr15	98814741	101981189	15q26 del/dup	0	.	98814741	101981189	255,255,0	2	<br /><a href=https://viapath.sharepoint.com/sites/DevelopmentalDisorders/Barista%20v20/15q26%20deletion%20%26%20duplication%20syndrome%20(IGF1R).aspx>Guy's syndrome track - click for more information</a>
+chr12	990509	2697950	12p13.33 del	0	.	990509	2697950	255,255,0	2	<br /><a href=https://doi.org/10.1016/j.ejmg.2020.103843>Guy's syndrome track - click for more information</a>
+chr12	64678139	68251745	12q14 del	0	.	64678139	68251745	255,255,0	2	<br /><a href=https://viapath.sharepoint.com/sites/DevelopmentalDisorders/Barista%20v20/12q14%20deletion%20syndrome.aspx>Guy's syndrome track - click for more information</a>
+chr11	43973250	46030899	Potocki-Shaffer del	0	.	43973250	46030899	255,255,0	2	<br /><a href=http://omim.org/entry/601224>Guy's syndrome track - click for more information</a>
+chr11	31784791	32435541	WAGR del	0	.	31784791	32435541	255,255,0	2	<br /><a href=http://omim.org/entry/194072>Guy's syndrome track - click for more information</a>
+chr10	48181660	49845537 	10q11.2 del	0	.	48181660	49845537 	255,255,0	2	<br /><a href=https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/clingen_region.cgi?id=ISCA-37497>Guy's syndrome track - click for more information</a>
+chr10	48181660	49845537 51053583	10q11.2 dup	0	.	48181660	49845537 	255,255,0	2	<br /><a href=https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/clingen_region.cgi?id=ISCA-37497>Guy's syndrome track - click for more information</a>
+chr9	137618991	137836126	9qsubtel del	0	.	137618991	137836126	255,255,0	2	<br /><a href=http://omim.org/entry/610253>Guy's syndrome track - click for more information</a>
+chr8	8242533	11907120	8p23.1 del	0	.	8242533	11907120	255,255,0	2	<br /><a href=https://viapath.sharepoint.com/sites/DevelopmentalDisorders/Barista%20v20/Interpretation%20and%20reporting%20help.aspx>Guy's syndrome track - click for more information</a>
+chr8	8242533	11907120	8p23.1 dup	0	.	8242533	11907120	255,255,0	2	<br /><a href=https://decipher.sanger.ac.uk/syndrome/85#overview>Guy's syndrome track - click for more information</a>
+chr8	76314229	76854003	8q21.11 del	0	.	76314229	76854003	255,255,0	2	<br /><a href=https://decipher.sanger.ac.uk/syndrome/86#overview>Guy's syndrome track - click for more information</a>
+chr7	96688766	96709891	Split-hand-foot del/dup	0	.	96688766	96709891	255,255,0	2	<br /><a href=http://omim.org/entry/183600>Guy's syndrome track - click for more information</a>
+chr7	75440722	76620683	7q11.23distal del	0	.	75440722	76620683	255,255,0	2	<br /><a href=http://omim.org/entry/613729>Guy's syndrome track - click for more information</a>
+chr7	73330452	74728334	7q11.23 dup	0	.	73330452	74728334	255,255,0	2	<br /><a href=http://omim.org/entry/609757>Guy's syndrome track - click for more information</a>
+chr7	73330452	74728334	Williams-Beuren del	0	.	73330452	74728334	255,255,0	2	<br /><a href=http://omim.org/entry/194050>Guy's syndrome track - click for more information</a>
+chr5	10001	12533192	Cri-du-Chat del	0	.	10001	12533192	255,255,0	2	<br /><a href=http://omim.org/entry/123450>Guy's syndrome track - click for more information</a>
+chr5	112707504	112846239	FAP del	0	.	112707504	112846239	255,255,0	2	<br /><a href=http://omim.org/entry/175100>Guy's syndrome track - click for more information</a>
+chr5	126776622	126837020	ADLD dup	0	.	126776622	126837020	255,255,0	2	<br /><a href=http://omim.org/entry/169500>Guy's syndrome track - click for more information</a>
+chr5	176297633	177625115	Sotos del	0	.	176297633	177625115	255,255,0	2	<br /><a href=http://omim.org/entry/117550>Guy's syndrome track - click for more information</a>
+chr4	1567470	2108509	Wolf-Hirschhorn del	0	.	1567470	2108509	255,255,0	2	<br /><a href=http://omim.org/entry/194190>Guy's syndrome track - click for more information</a>
+chr4	81051543	82485638	4q21 del	0	.	81051543	82485638	255,255,0	2	<br /><a href=https://omim.org/entry/613509>Guy's syndrome track - click for more information</a>
+chr3	195999964	197617792	3q29 del	0	.	195999964	197617792	255,255,0	2	<br /><a href=http://omim.org/entry/609425>Guy's syndrome track - click for more information</a>
+chr3	195999964	197617792	3q29 dup	0	.	195999964	197617792	255,255,0	2	<br /><a href=http://omim.org/entry/611936>Guy's syndrome track - click for more information</a>
+chr2	44183312	44362445	2p21 homozygous del	0	.	44183312	44362445	255,255,0	2	<br /><a href=http://omim.org/entry/606407>Guy's syndrome track - click for more information</a>
+chr2	59058561	61592680	2p16.1p15 del	0	.	59058561	61592680	255,255,0	2	<br /><a href=http://omim.org/entry/612513>Guy's syndrome track - click for more information</a>
+chr2	75544144	89256789	2p12p11.2 del	0	.	75544144	89256789	255,255,0	2	<br /><a href=https://www.omim.org/entry/613564>Guy's syndrome track - click for more information</a>
+chr2	188974373	189012746	Ehlers-Danlos type IV del	0	.	188974373	189012746	255,255,0	2	<br /><a href=http://omim.org/entry/130050>Guy's syndrome track - click for more information</a>
+chr2	196060397	204342216	2q33.1 del	0	.	196060397	204342216	255,255,0	2	<br /><a href=http://omim.org/entry/612313>Guy's syndrome track - click for more information</a>
+chr2	239048167	239400949	2q37 del	0	.	239048167	239400949	255,255,0	2	<br /><a href=http://omim.org/entry/600430>Guy's syndrome track - click for more information</a>
+chr1	10001	12780116	1p36 del	0	.	10001	12780116	255,255,0	2	<br /><a href=http://omim.org/entry/607872>Guy's syndrome track - click for more information</a>
+chr1	145686997	146048497	TAR del	0	.	145686997	146048497	255,255,0	2	<br /><a href=http://omim.org/entry/274000>Guy's syndrome track - click for more information</a>
+chr1	147061832	148411223	1q21.1 del	0	.	147061832	148411223	255,255,0	2	<br /><a href=http://omim.org/entry/612474>Guy's syndrome track - click for more information</a>
+chr1	147061832	148411223	1q21.1 dup	0	.	147061832	148411223	255,255,0	2	<br /><a href=http://omim.org/entry/612475>Guy's syndrome track - click for more information</a>
+chr11	1990126	2886660	SRS/BWS	0	.	1990126	2886660	255,255,0	2	<br /><a href=http://omim.org/entry/616186>Guy's syndrome track - click for more information</a>
+chr15	82500816	85196465	15q25 del	0	.	82500816	85196465	255,255,0	2	<br /><a href=http://omim.org/entry/614294>Guy's syndrome track - click for more information</a>
+chr17	1029382	1332519	SHFLD3 dup	0	.	1029382	1332519	255,255,0	2	<br /><a href=http://omim.org/entry/612576>Guy's syndrome track - click for more information</a>
+chrX	791143	907140	SHOX enhancer del	0	.	791143	907140	255,255,0	2	<br /><a href=https://decipher.sanger.ac.uk/syndrome/58/overview>Guy's syndrome track - click for more information</a>
+	
